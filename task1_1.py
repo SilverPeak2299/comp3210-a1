@@ -7,7 +7,7 @@ def main() :
     sales = database["coffee_sales"]
     new_collection = database["coffee_extracted"]
 
-    with open("task_1_1_output.txt", "w") as file:
+    with open("task1_1_output.txt", "w") as file:
         for transaction in sales.find():
             #skipping transactions without a card ID
             card = transaction["card"]

@@ -1,0 +1,8 @@
+"Latte"	372031.0
+"Cappuccino"	217473.0
+"Cocoa"	145426.0
+"Cortado"	108127.0
+"Espresso"	58906.0
+"Hot Chocolate"	161798.0
+"Americano"	255035.0
+"Americano with Milk"	354336.0
