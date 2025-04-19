@@ -1,2 +1,4 @@
 mrjob
 PyMongo
+matplotlib
+pandas
