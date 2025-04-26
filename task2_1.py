@@ -9,8 +9,8 @@ smallest_sales = total_sales.nsmallest(3, 'Sales')["Coffee"].tolist()
 class LeastSoldCoffee(MRJob):
 
     def steps(self):
-        return [MRStep(mapper= self.mapper_1, reducer= self.reducer_1)]
-                #MRStep(mapper= self.mapper_2, reducer= self.reducer_2)]
+        return [MRStep(mapper= self.mapper_1, reducer= self.reducer_1),
+                MRStep(mapper= self.mapper_2, reducer= self.reducer_2)]
     
     def mapper_1(self, _, line):
         transaction = line.split("\t")

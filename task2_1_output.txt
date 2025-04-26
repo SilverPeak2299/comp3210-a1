@@ -1,51 +1,5 @@
-"Espresso: 2024-7"	273.28
-"Espresso: 2024-8"	253.68
-"Espresso: 2024-9"	217.44
-"Espresso: 2025-1"	105.3
-"Espresso: 2025-2"	315.9
-"Hot Chocolate: 2024-10"	2074.08
-"Hot Chocolate: 2024-11"	1323.12
-"Hot Chocolate: 2024-12"	929.76
-"Hot Chocolate: 2024-3"	774.0
-"Hot Chocolate: 2024-4"	386.02
-"Hot Chocolate: 2024-5"	490.36
-"Hot Chocolate: 2024-6"	528.08
-"Hot Chocolate: 2024-7"	361.02
-"Hot Chocolate: 2024-8"	196.92
-"Hot Chocolate: 2024-9"	366.9
-"Hot Chocolate: 2025-1"	536.4
-"Hot Chocolate: 2025-2"	1037.04
-"Latte: 2024-10"	4291.2
-"Americano: 2024-9"	739.58
-"Americano: 2025-1"	649.0
-"Americano: 2025-2"	2596.0
-"Cappuccino: 2024-10"	1573.44
-"Cappuccino: 2024-11"	929.76
-"Americano with Milk: 2024-7"	1863.8
-"Americano with Milk: 2024-8"	2010.24
-"Americano with Milk: 2024-9"	2930.14
-"Americano with Milk: 2025-1"	1604.72
-"Americano with Milk: 2025-2"	2376.22
-"Americano: 2024-10"	1142.24
-"Americano: 2024-11"	649.0
-"Americano: 2024-12"	700.92
-"Americano: 2024-3"	924.8
-"Americano: 2024-4"	941.94
-"Americano: 2024-5"	1116.8
-"Americano: 2024-6"	390.88
-"Americano: 2024-7"	858.12
-"Americano: 2024-8"	851.74
-"Latte: 2024-7"	1857.52
-"Latte: 2024-8"	1903.56
-"Latte: 2024-9"	3114.48
-"Latte: 2025-1"	1466.16
-"Latte: 2025-2"	1537.68
-"Latte: 2024-11"	2431.68
-"Latte: 2024-12"	1680.72
-"Latte: 2024-3"	1354.5
-"Latte: 2024-4"	1034.12
-"Latte: 2024-5"	1886.0
-"Latte: 2024-6"	1886.0
+"Cocoa: 2024-10"	1144.32
+"Cocoa: 2024-11"	1251.6
 "Cocoa: 2024-12"	750.96
 "Cocoa: 2024-3"	232.2
 "Cocoa: 2024-4"	153.82
@@ -60,25 +14,6 @@
 "Cortado: 2024-11"	337.48
 "Cortado: 2024-12"	804.76
 "Cortado: 2024-3"	809.2
-"Americano with Milk: 2024-3"	1014.0
-"Americano with Milk: 2024-4"	1267.74
-"Americano with Milk: 2024-5"	1772.28
-"Americano with Milk: 2024-6"	2166.12
-"Cappuccino: 2024-12"	1358.88
-"Cappuccino: 2024-3"	580.5
-"Cappuccino: 2024-4"	1381.44
-"Cappuccino: 2024-5"	1961.44
-"Cappuccino: 2024-6"	1735.12
-"Cappuccino: 2024-7"	1079.64
-"Cappuccino: 2024-8"	1115.88
-"Cappuccino: 2024-9"	1360.32
-"Cappuccino: 2025-1"	965.52
-"Cappuccino: 2025-2"	1644.96
-"Cocoa: 2024-10"	1144.32
-"Cocoa: 2024-11"	1251.6
-"Americano with Milk: 2024-10"	2530.52
-"Americano with Milk: 2024-11"	1604.72
-"Americano with Milk: 2024-12"	1759.02
 "Cortado: 2024-4"	458.48
 "Cortado: 2024-5"	474.64
 "Cortado: 2024-6"	530.48
@@ -94,3 +29,8 @@
 "Espresso: 2024-4"	96.0
 "Espresso: 2024-5"	161.14
 "Espresso: 2024-6"	230.2
+"Espresso: 2024-7"	273.28
+"Espresso: 2024-8"	253.68
+"Espresso: 2024-9"	217.44
+"Espresso: 2025-1"	105.3
+"Espresso: 2025-2"	315.9
